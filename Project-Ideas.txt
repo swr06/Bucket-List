@@ -1,0 +1,12 @@
+1) Sparse Voxel Octrees using conservative Rasterization
+2) Proper SAH BVHs 
+3) Raytraced Irradiance probes / DDGI
+4) HBIL, HBAO
+5) Better SSRT/Probe RT
+6) More/Better Volumetric path tracing
+7) More Accurate/Better cloud rendering
+8) Distance field based AO
+9) Foliage/forest rendering
+10) Physically based lens/camera system
+11) Mesh skinning
+
